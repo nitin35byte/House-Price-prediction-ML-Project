@@ -7,3 +7,4 @@ This my first end to edn Ml project
    3. VS Code IDE
    4. GIT cli
    5. GIT Documentation
+   6. [avinash](https://github.com/avnyadav/machine_learning_project)
